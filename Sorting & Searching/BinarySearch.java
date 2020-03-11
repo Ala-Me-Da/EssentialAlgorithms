@@ -17,6 +17,7 @@ public class BinarySearch {
                 return array[mid];
             }
         }
+        
         System.out.println("Item not found in array.");
         return -1;
     }
